@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="DTLS_server.cpp">
+      <Filter>DTLS Server</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DTLS Server">
+      <UniqueIdentifier>{d388b32b-5980-4453-9b70-3dc25175cdce}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DTLS_server.h">
+      <Filter>DTLS Server</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="openssl.txt">
+      <Filter>DTLS Server</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
