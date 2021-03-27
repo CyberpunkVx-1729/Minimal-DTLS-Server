@@ -7,7 +7,6 @@ int main()
     dtls_serv.setup_server("0.0.0.0", 20000, true);
     dtls_serv.start_server();
     
-
     printf("hello from %s!\n", "simple_dtls_server");
     return 0;
 }
