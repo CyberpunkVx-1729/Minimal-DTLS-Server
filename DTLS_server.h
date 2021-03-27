@@ -1,4 +1,3 @@
-
 /*
  * Copyright (C) 2020 - 2021 Laidouni Habib, cyberpunkVx@gmail.com
  *				 2020 - 2021 DECIMA Technologies
