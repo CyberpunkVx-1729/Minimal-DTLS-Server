@@ -1,2 +1,2 @@
 # Minimal-DTLS-Server
-a Simple C++ DTLS Server, using only OpenSSL
+a Minimal C++ DTLS Server, based on OpenSSL
