@@ -1,3 +1,2 @@
 # Minimal-DTLS-Server
-a Minimal C++ DTLS Server, based on OpenSSL
-support asynchronous and multi-client
+a Minimal C++/OpenSSL DTLS Server, support asynchronous and multi-client
